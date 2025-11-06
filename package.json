@@ -1,0 +1,15 @@
+{
+  "name": "mruebung2ws25",
+  "version": "1.0.0",
+  "description": "This repository accompanies [*AR and VR Using the WebXR API*](https://www.apress.com/9781484263174) by Rakesh Baruah (Apress, 2021).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.124.0"
+  }
+}
